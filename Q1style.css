@@ -1,0 +1,13 @@
+body{
+    background-color: burlywood;
+}
+.head{
+    font: 1em sans-serif;
+    color: rgb(73, 55, 34);
+    font-weight: 100;
+}
+.para{
+    color: cadetblue;
+    font-size: larger;
+
+}
