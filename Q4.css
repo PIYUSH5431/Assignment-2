@@ -1,0 +1,29 @@
+.bgimage:hover {
+    content: url('q4type2.avif');
+    /* background-image: url(q4type2.avif); */
+    height: 1800px;
+    width: 2800px;
+    border: 2px solid black;
+    
+   
+    
+    
+}
+.pq{
+    height: 960px;
+    width: 1500px;
+    background-size: cover;
+   
+    
+
+}
+.bgimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    margin: auto;
+}
